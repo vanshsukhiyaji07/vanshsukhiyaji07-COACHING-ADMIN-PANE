@@ -61,7 +61,7 @@ const Home = () => {
             <div className="relative lg:pl-8">
               <div className="absolute -inset-4 bg-gradient-to-r from-primary-400 to-accent-400 rounded-3xl blur-2xl opacity-20"></div>
               <img
-                src="https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=600&q=80"
+                src="https://plus.unsplash.com/premium_photo-1713229182244-d617b76349d2?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                 alt="Students celebrating success"
                 className="relative rounded-3xl shadow-2xl w-full object-cover aspect-[4/3]"
                 loading="eager"
